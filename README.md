@@ -3,7 +3,7 @@
 ## 🎮 Game Overview  
 **Sprunki Phase 3 Remastered** is a fan-driven reimagining of the iconic *Incredibox* series, blending rhythm-based gameplay with spine-chilling horror aesthetics. Developed by VTLC and released in late 2024 to early 2025, this remastered edition revitalizes the original Phase 3 with enhanced visuals, refined soundscapes, and deeper narrative integration. Players guide "Boyfriend" through a terrifying musical odyssey to rescue his girlfriend, battling eerie antagonists like Wendy and Gray in rhythm-driven rap battles. The game merges music creation with survival horror, offering a unique fusion of creativity and tension.
 
----
+**👉👉 Click to play*: [Sprunki Phase 3 Remastered](https://sprunkiphase3remastered.pages.dev) 
 
 ## 🔥 Core Features  
 
